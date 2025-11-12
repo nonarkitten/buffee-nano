@@ -5,6 +5,6 @@ This is the repository for Buffee Nano, the very, very lowest end FPGA Amiga acc
 ![Underside of Buffee Nano showing major components and pin orientation](images/buffee-nano-underside.png "Buffee Nano Underside")
 
 ## Programming
- The iCE40 HX is loaded via the SPI Flash chip. This is programmed through a 10-pin header that ias accessible from the top side. You may either solder-on a SMT 10-pin Cortex ARM style header here, use pogo pins or simply solder some wire leads from it.
+ The iCE40 HX is loaded via the SPI Flash chip. This is programmed through a 10-pin header that is accessible from the top side. You may either solder-on a SMT 10-pin Cortex ARM style header here, use pogo pins or simply solder some wire leads from it.
 
 ![Topside of Buffee Nano showing programming header](images/buffee-nano-topside-programming.png "Buffee Nano Topside")
